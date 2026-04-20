@@ -6,7 +6,7 @@
 -- including customer countries and product categories, subcategories,
 -- and product names.
 -- ==============================================================
-
+ 
 -- Explore All Countries our customers come from
 SELECT DISTINCT country
 FROM gold.dim_customers;
